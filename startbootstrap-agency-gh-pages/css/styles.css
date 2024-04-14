@@ -8267,6 +8267,10 @@ textarea.form-control-lg {
   border-radius: 50% !important;
 }
 
+.assets/img/about {
+  border-radius: 50% !important;
+}
+
 .rounded-pill {
   border-radius: var(--bs-border-radius-pill) !important;
 }
