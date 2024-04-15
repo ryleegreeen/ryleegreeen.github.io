@@ -11189,8 +11189,8 @@ header.masthead .masthead-heading {
   }
   .timeline > li .timeline-image {
     left: 50%;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     margin-left: -50px;
   }
   .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
