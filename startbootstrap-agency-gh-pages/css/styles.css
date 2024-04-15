@@ -8264,11 +8264,11 @@ textarea.form-control-lg {
 }
 
 .rounded-circle {
-  border-radius: 50% !important;
+  border-radius: 100% !important;
 }
 
 .assets/img/about {
-  border-radius: 50% !important;
+  border-radius: 100% !important;
 }
 
 .rounded-pill {
