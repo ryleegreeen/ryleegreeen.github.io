@@ -1,10 +1,10 @@
-head {
+.head {
     background-color: #cec2b7;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
     }
 
-body {
+.body {
     background-color: #cec2b7;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -51,7 +51,7 @@ div {
     background-color: #000000;
     color: #796450;
     text-align: left;
-    font-size: 38px;
+    font-size: 20px;
     }
 
     .a {
