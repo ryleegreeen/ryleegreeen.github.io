@@ -17,6 +17,7 @@
     background: #cec2b7;
     width: 300px;
     height: 200px;
+    margin: none;
 }
 
 .mainImg h1 {
@@ -42,6 +43,7 @@
     bottom:0;
     left:0;
     background: #cec2b7;
+    margin: none;
 }
 div {
     position: absolute;
@@ -52,6 +54,7 @@ div {
     color: #796450;
     text-align: left;
     font-size: 20px;
+    margin: none;
     }
 
     .a {
