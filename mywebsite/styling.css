@@ -29,6 +29,7 @@ h1 {
 img {
   align: center;
     width: 800px;
+    margin: 0 auto;
     height: auto
 }
 a {
