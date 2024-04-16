@@ -10,7 +10,39 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration-style: none;
     }
+.mainImg {
+    position: relative;
+    left: 0;
+    top: 0;
+    background: #cec2b7;
+    width: 300px;
+    height: 200px;
+}
 
+.mainImg h1 {
+    position: absolute;
+    top: 30%;
+    left: 0;
+    right: 0;
+    font-size: 20px;
+    width: 100%;
+    height: 26px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background:#796450;
+}
+
+.mainImg img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    background: #cec2b7;
+}
 div {
     position: absolute;
 }
