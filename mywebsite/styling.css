@@ -26,9 +26,10 @@ h1 {
      div#main-content { 
        padding-top: 70px;
     }
-img,
-svg {
-  vertical-align: middle;
+img {
+  align: center;
+    width: 800px;
+    height: auto
 }
 a {
     color: #FFFFFF;
