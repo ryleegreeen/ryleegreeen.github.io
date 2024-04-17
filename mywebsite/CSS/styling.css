@@ -2,7 +2,8 @@ body {
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: #5c5957;
-    margin: 0;
+    font-color: #FFFFFF
+    margin: 1;
     padding: 0;
     position: relative;
 }
