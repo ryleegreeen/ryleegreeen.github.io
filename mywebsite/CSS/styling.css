@@ -7,13 +7,12 @@ body {
     color: #ffffff;
 }
 
-
 .header {
     background-color: #5c5957;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #ffffff; 
-    text-align: right;
+    text-align: center;
     padding: 10px;
     position: absolute;
 }
@@ -31,35 +30,35 @@ h1, h2, h4 {
 
 h1 {
     text-align: center;
-    color: #FFFFFF
-        
+}
 
 img, iframe {
     display: block;
     margin: 0 auto;
     max-width: 100%;
-    position: center;
+    position: relative;
 }
 
-#home{
+#home {
     font-size: 20px;
     text-align: left;
-    color: #ffffff
+    color: #ffffff;
 }
 
-#purpose{
+#purpose {
     font-size: 20px;
     text-align: left;
-    color: #ffffff
+    color: #ffffff;
 }
 
-#music{
+#music {
     font-size: 20px;
     text-align: left;
-    color: #ffffff
+    color: #ffffff;
 }
 
 .footer {
     text-align: center;
     font-size: 18px;
     color: #ffffff;
+}
