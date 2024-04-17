@@ -12,9 +12,10 @@ body {
     background-color: #5c5957;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: #ffffff; /* Set font color to white */
+    color: #ffffff; 
     text-align: right;
     padding: 10px;
+    position: absolute;
 }
 
 .header a {
@@ -38,6 +39,7 @@ img, iframe {
     display: block;
     margin: 0 auto;
     max-width: 100%;
+    position: absolute;
 }
 
 .footer {
