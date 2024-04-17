@@ -5,6 +5,7 @@ body {
     margin: 96px;
     padding: 0;
     color: #ffffff;
+    text-decoration: none;
 }
 
 .header {
@@ -15,6 +16,7 @@ body {
     text-align: center;
     padding: 10px;
     position: absolute;
+    text-decoration: none;
 }
 
 .header a {
