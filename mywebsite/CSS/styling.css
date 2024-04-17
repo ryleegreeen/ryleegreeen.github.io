@@ -4,13 +4,14 @@ body {
     background-color: #5c5957;
     margin: 0;
     padding: 0;
+    color: #ffffff; /* Set font color to white */
 }
 
 .header {
     background-color: #5c5957;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: #796450;
+    color: #ffffff; /* Set font color to white */
     text-align: right;
     padding: 10px;
 }
@@ -23,7 +24,11 @@ body {
 
 h1, h2, h4 {
     text-align: center;
-    color: #ffffff;
+    color: #ffffff; /* Set font color to white */
+}
+
+h1 {
+    font-size: 40px; /* Increase title (h1) font size */
 }
 
 img, iframe {
