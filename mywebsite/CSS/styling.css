@@ -7,10 +7,6 @@ body {
     color: #ffffff; /* Set font color to white */
 }
 
-.body a {
-    color: #ffffff;
-    text-decoration: none;
-}
 
 .header {
     background-color: #5c5957;
@@ -27,13 +23,15 @@ body {
     margin-right: 10px;
 }
 
+.home{
+    font-size: 40px;
+    tect-align: center;
+    color: #ffffff
+}
+
 h1, h2, h4 {
     text-align: center;
     color: #ffffff; /* Set font color to white */
-}
-
-h1 {
-    font-size: 40px; /* Increase title (h1) font size */
 }
 
 img, iframe {
